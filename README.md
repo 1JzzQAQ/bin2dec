@@ -1,3 +1,8 @@
+# Binary to Decimal Converter
+
+Idea from [here](https://github.com/florinpop17/app-ideas)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
